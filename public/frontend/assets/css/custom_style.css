@@ -1,0 +1,60 @@
+.dataTables_length{
+    float: left;
+    font-size: 13px;
+}
+
+.dataTables_length select{
+    padding: 4px;
+}
+
+.dataTable_filter{
+    font-size: 15px;
+}
+
+#dataTable_filter input{
+    padding: 4px;
+}
+
+.customer_table thead tr{
+	background: #00656d;
+	text-align: center;
+}
+
+.customer_table thead:first-child tr th{
+	font-weight: bold; vertical-align: middle;
+}
+
+.customer_table thead th{
+	color: #fff;
+	padding: 2px 0px 2px 6px;
+	font-size: 14px;
+	text-align: left;
+}
+
+.customer_table tbody td{
+	color: #333;
+    font-size: 14px;
+    padding-right: 0px;
+    padding: 6px;
+}
+
+.booking_section{
+	margin-top: 15px;
+}
+
+.card-body {
+    border: 1px solid #d4d2d2 !important;
+}
+
+.card-header {
+	border-bottom: none !important;
+}
+
+a:hover, a:focus {
+    text-decoration: none !important;
+}
+
+.slider-area .container {
+    align-self: auto;
+    margin-top: 25px;
+}
